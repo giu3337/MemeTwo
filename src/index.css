@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        font-family: 'Karla', sans-serif;
+    }
+  }
+
+header {
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+}
